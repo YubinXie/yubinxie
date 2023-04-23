@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=yubinxie.yubinxie)
-![Twitter Follow](https://img.shields.io/twitter/follow/yubin_xie?label=Follow)
-[![Linkedin](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yubin-x-57198711a/)](https://www.linkedin.com/in/yubin-x-57198711a/)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/yubin_xie?label=Follow)](https://twitter.com/Yubin_Xie)
+[![Linkedin](https://img.shields.io/badge/-Yubin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yubin-x-57198711a/)](https://www.linkedin.com/in/yubin-x-57198711a/)
 
 - ☁️ I am a soon-to-graduate PhD student in Cornell
 - 🔭 I work on machine learning, biology & medicine 
