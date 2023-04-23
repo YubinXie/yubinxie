@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=yubinxie.yubinxie)
-
+![visitor](https://visitor-badge.glitch.me/badge?page_id=Danko-Lab.BayesPrism)
 <!--
 **YubinXie/yubinxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
