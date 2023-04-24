@@ -11,13 +11,11 @@
 
 <samp align="center">
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/yubin_xie?label=Follow)](https://twitter.com/Yubin_Xie)
-[![Linkedin](https://img.shields.io/badge/-Yubin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yubin-x-57198711a/)](https://www.linkedin.com/in/yubin-x-57198711a/)
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F4GbVh67voTyfxZUvHbHj_LWFw2kzbCBw2z1cNzS35cGfUZoL4wMhBhWns-awoP1zY3nWPQmLnvQooItj_cHQOYpJlzakFnQPNavJnypGpRfX06bXc&user=KrHS9EIAAAAJ"
-  
+[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Yubin_Xie)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yubin-x-57198711a/)
+[![Google scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=KrHS9EIAAAAJ)
+
+ 
 </samp>
 
 <br>
