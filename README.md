@@ -1,5 +1,8 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=yubinxie.yubinxie)
 
+<div align="center">
+ <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+</div >
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://yubinxie.ai/">Yubin Xie</a></b>
