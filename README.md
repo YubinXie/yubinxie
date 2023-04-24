@@ -7,6 +7,7 @@
 - ☁️ I am a soon-to-graduate PhD student in Cornell
 - 🔭 I work on machine learning, biology & medicine 
 <br>
+
 - ⚡ I am currently writing my thesis and prepare my PhD defense<br>
 - ⚡ I am organzing ICML 2023 computational biology workshop (icml-compbio.git.io)<br>
 - ⚡ I am thinking about the future of LLM and AI in our society and medical field  <br>
