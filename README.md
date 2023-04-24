@@ -9,8 +9,8 @@
 <br>
 
 - ⚡ I am currently writing my thesis and prepare my PhD defense<br>
-- ⚡ I am organzing ICML 2023 computational biology workshop (icml-compbio.github.io)<br>
-- ⚡ I am thinking about the future of LLM and AI in our society and medical field  <br>
+- ⚡ I am organzing ICML 2023 computational biology [workshop](https://icml-compbio.github.io/)<br>
+- 🤖 Beyond my research, I'm deeply interested in the future of language models (LLM) and AI in our society and the medical field. I believe that these technologies have the potential to revolutionize healthcare and improve patient outcomes.
 
 <!--
 **YubinXie/yubinxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
