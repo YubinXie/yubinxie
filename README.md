@@ -8,6 +8,10 @@
 - 🔭 I work on machine learning, biology & medicine 
 
 
+- ⚡ I am currently writing my thesis and prepare my PhD defense
+- ⚡ I am organzing ICML 2023 computational biology workshop (icml-compbio.git.io)
+- ⚡ I am thinking about the future of LLM and AI in our society and medical field  
+
 <!--
 **YubinXie/yubinxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
