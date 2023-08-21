@@ -1,4 +1,4 @@
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=yubinxie.yubinxie)
+
 
 <div align="center">
  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
@@ -20,12 +20,12 @@
 
 <br>
 
-- ☁️ I am a soon-to-graduate PhD student in Cornell
+- ☁️ I am a machine learning scientist in a cool startup
 - 🔭 I work on machine learning, biology & medicine 
 <br>
 
-- ⚡ I am currently writing my thesis and prepare my PhD defense<br>
-- ⚡ I am organzing ICML 2023 computational biology [workshop](https://icml-compbio.github.io/)<br>
+- ⚡ I just warpped up my PhD <br>
+- ⚡ I am organzing NeurIPS 2023 ICBINB [workshop](https://sites.google.com/view/icbinb-2023/)<br>
 - 🤖 Beyond my research, I'm deeply interested in the future of language models (LLM) and AI in our society and the medical field. I believe that these technologies have the potential to revolutionize healthcare and improve patient outcomes.
 
 <!--
