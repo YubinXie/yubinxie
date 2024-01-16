@@ -20,13 +20,18 @@
 
 <br>
 
-- ☁️ I am a machine learning scientist in a cool startup
+- ☁️ I am a machine learning scientist in a cool startup: noetik.ai
 - 🔭 I work on machine learning, biology & medicine 
 <br>
 
 - ⚡ I just warpped up my PhD <br>
 - ⚡ I am organzing NeurIPS 2023 ICBINB [workshop](https://sites.google.com/view/icbinb-2023/)<br>
 - 🤖 Beyond my research, I'm deeply interested in the future of language models (LLM) and AI in our society and the medical field. I believe that these technologies have the potential to revolutionize healthcare and improve patient outcomes.
+<br>
+<br>
+- I worked on:
+- organzing NeurIPS 2023 ICBINB [workshop](https://sites.google.com/view/icbinb-2023/)<br>
+- organzing ICML 2023 computational biology [workshop](https://icml-compbio.github.io/)<br>
 
 <!--
 **YubinXie/yubinxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
